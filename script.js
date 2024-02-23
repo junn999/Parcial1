@@ -61,7 +61,7 @@ function ocultar() {
     botonOcultar.style.display = 'none';
 }
 
-function mostrar() {
+function mostrar2() {
     var imagen = document.getElementById('imagen2');
     var descripcion = document.getElementById('descripcion2');
     var botonMostrar = document.getElementById('boton-imagen2');
@@ -73,7 +73,7 @@ function mostrar() {
     botonOcultar.style.display = 'block';
 }
 
-function ocultar() {
+function ocultar2() {
     var imagen = document.getElementById('imagen2');
     var descripcion = document.getElementById('descripcion2');
     var botonMostrar = document.getElementById('boton-imagen2');
